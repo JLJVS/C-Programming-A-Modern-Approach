@@ -1,0 +1,1 @@
+// if you use a string version of a digit you will get the ASCII value of the digit
