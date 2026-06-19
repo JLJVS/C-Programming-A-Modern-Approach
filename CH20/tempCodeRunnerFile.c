@@ -1,0 +1,1 @@
+key_code & (SHIFT_BIT | CTRL_BIT | ALT_BIT)
